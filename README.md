@@ -4,8 +4,8 @@ https://github.com/itc-c21005/Sample
 
 ## ローカルリポジトリ
 * お好み焼きレシピ  
-　　[okonomi.txt](okonomi.txt)  
+	[okonomi.txt](okonomi.txt)  
 
 ## リモートリポジトリ
-* READMEを作ってみる  
+* [README.md](README)を作ってみる  
 * マークダウンを覚える
